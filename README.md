@@ -60,4 +60,4 @@ Based on the final Training and Validation accuracies and F1 scores, the **Multi
 - The IMDB dataset on hand is quite imbalanced and has not got as many observations to use well for a Neural Network. 
 - Naive Bayes is suitable for smaller datasets and for high-dimensional datasets (as in the case with the CountVectorization approach)
 
-Contributors: [Georgios Stavrakis](https://github.com/g-stavrakis),[Agam Chug](https://github.com/agamchug),[Georgios Kalfas](https://github.com/georgekalf),[Iliana Panagiotidou](https://github.com/ilipan15) 
+Contributors: [Georgios Stavrakis](https://github.com/g-stavrakis), [Agam Chug](https://github.com/agamchug), [Georgios Kalfas](https://github.com/georgekalf), [Iliana Panagiotidou](https://github.com/ilipan15) 
