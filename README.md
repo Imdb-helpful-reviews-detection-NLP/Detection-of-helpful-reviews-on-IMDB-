@@ -46,13 +46,13 @@ The approach of the project was to initiate and train an unoptimised model and t
 The results for the machine learning models can be seen here:
 
 <p align="center">
-  <img src="Graphs/ml_results.png" width=65% height=65%> 
+  <img src="Tables of the results/ml_results.png" width=65% height=65%> 
 </p>
 
 Then the same approach was followed for the neural networks, providing the following results:
 
 <p align="center">
-  <img src="Graphs/dl_results.png" width=65% height=65%> 
+  <img src="Tables of the results/dl_results.png" width=65% height=65%> 
 </p>
 
 Based on the final Training and Validation accuracies and F1 scores, the **Multinomial Naive Bayes** has been chosen with the CountVectorization embedding for the following reason:
