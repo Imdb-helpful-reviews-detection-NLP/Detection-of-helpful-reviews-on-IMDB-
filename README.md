@@ -4,8 +4,6 @@
   <img src="IMDBs.jpg" width="900" height="500">
 </p>
 
-# Detection of helpful reviews on IMDB 
-
 # About this project
 
 The aim of this repository is to adjudicate between helpful and unhelpful movie reviews from the IMDB database. To perform this classification task, Natural Language Processing (NLP) tools were used to transform reviews' text to numeric features. Then, different machine learning classifiers and deep learning models were trained and optimised to achieve the highest F1 score in the validation set. Lastly, the chosen model was retrained on the combined dataset and used to classify the test data. 
