@@ -1,4 +1,4 @@
-# Detection-of-helpful-reviews-on-IMDB-
+# Detection of helpful reviews on IMDb
 
 <p align="center">
   <img src="IMDBs.jpg" width="900" height="500">
